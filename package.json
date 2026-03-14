@@ -1,0 +1,48 @@
+{
+  "_from": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball",
+  "_id": "aurora-theme@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-gKqkQvzO+U5XGbiR8UbLycJdmM6aTN2qLKqgNoRJKDOaxcot5qfsWxOR9b1zrX2C2Q0KLw4SLLAze7qHYDm6sA==",
+  "_location": "/aurora-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball",
+    "rawSpec": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball",
+    "saveSpec": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball",
+    "fetchSpec": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball",
+  "_shasum": "8124d420f3d9bb87753682b4ddfbce4915528fb8",
+  "_spec": "https://api.pulsar-edit.dev/api/packages/aurora-theme/versions/1.2.2/tarball",
+  "_where": "/home/hokusai/.tmp/apm-install-dir-2026214-4973-q256y6.3r0zs",
+  "bugs": {
+    "url": "https://github.com/itamarjr/aurora/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Aurora theme, inspired in aurora boreal.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/itamarjr/aurora#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "green",
+    "aurora"
+  ],
+  "license": "MIT",
+  "name": "aurora-theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itamarjr/aurora.git"
+  },
+  "theme": "syntax",
+  "version": "1.2.2"
+}
